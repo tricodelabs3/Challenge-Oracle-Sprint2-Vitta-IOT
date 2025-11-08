@@ -1,3 +1,4 @@
+![Imagem de banner de tecnologia e saúde](https://i.imgur.com/g8Sg88T.png)
 # CHALLENGE ORACLE 2025: Projeto Vitta (Sprint 2)
 ## Disruptive Architectures: IoT, IoB & Generative IA
 
