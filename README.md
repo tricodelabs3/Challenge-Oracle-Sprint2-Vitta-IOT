@@ -1,4 +1,5 @@
-![Banner de Saúde e Tecnologia](https://storage.googleapis.com/gemini-prod-us-public/images/20240507/115502_healthcare_tech_banner.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4bb2adeb-3159-4808-9db6-85d2fa03c8a6" />
+
 # CHALLENGE ORACLE 2025: Projeto Vitta (Sprint 2)
 ## Disruptive Architectures: IoT, IoB & Generative IA
 
